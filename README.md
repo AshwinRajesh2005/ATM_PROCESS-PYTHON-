@@ -16,4 +16,4 @@ Transaction History: View a summary of recent transactions.
 Technologies Used
 Programming Language: PYTHON
 Tools: Git for version control
-![ATM Main Menu](D:\GITHUB\ATM\ATM_PROCESS\Screenshot 2025-01-11 154257.png)
+![Screenshot 2025-01-11 154257](https://github.com/user-attachments/assets/b4fe88c3-262d-4d38-8001-b14e00f3c1ab)
